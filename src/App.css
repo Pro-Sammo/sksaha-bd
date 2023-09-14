@@ -1,0 +1,17 @@
+#fontchange{
+    background-image: url('./assets/paint.jpg');
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+}
+
+#circle{
+    background: -webkit-linear-gradient(
+        77deg,
+        #527FF6 0%,
+        #E16DD9 46%,
+        #FFCC70 100%
+      );
+      filter: blur(60px);
+}
+
+
